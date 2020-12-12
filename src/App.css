@@ -64,6 +64,9 @@ body {
 
 .cell {
   /* grid-area: cell; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 @media (min-width: 992px) {
